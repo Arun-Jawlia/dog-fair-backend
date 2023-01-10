@@ -1,0 +1,46 @@
+{
+  "dogs": [
+    {
+      "id": 1,
+      "breed": "Cherry",
+      "age": 2,
+      "place": "Visakhapatnam",
+      "gender": "Male"
+    },
+    {
+      "id": 2,
+      "breed": "Cherry",
+      "age": 2,
+      "place": "Visakhapatnam",
+      "gender": "Male"
+    },
+    {
+      "id": 3,
+      "breed": "Cherry",
+      "age": 2,
+      "place": "Visakhapatnam",
+      "gender": "Male"
+    },
+    {
+      "id": 4,
+      "breed": "Cherry",
+      "age": 2,
+      "place": "Visakhapatnam",
+      "gender": "Male"
+    },
+    {
+      "id": 5,
+      "breed": "Cherry",
+      "age": 2,
+      "place": "Visakhapatnam",
+      "gender": "Male"
+    },
+    {
+      "id": 6,
+      "breed": "Cherry",
+      "age": 2,
+      "place": "Visakhapatnam",
+      "gender": "Female"
+    }
+  ]
+}
